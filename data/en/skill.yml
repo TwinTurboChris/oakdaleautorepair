@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Mission
+  subtitle : Bringing Fair Pricing to Auto Repair.
+  content : Oakdale Auto Repair was founded by Aaron Jelsma and Chris Holmes with one clear mission, to fight back against the rising cost of auto repair that has become all too common in the industry. After decades of combined experience, they saw how overpriced services were keeping everyday people from getting the repairs and maintenance they needed. So they set out to build a shop where expert work, honest service, and fair pricing come standard—making quality auto care accessible to everyone.
+  image : images/about/squarebody.webp
+  skill_item :
+    # skill item loop
+    - name :  Keep our prices below industry standards
+      percent : 90%
+      
+    # skill item loop
+    - name :  Deliver expert repairs with honesty
+      percent : 80%
+      
+    # skill item loop
+    - name :  Build trust through dependable service
+      percent : 70%
+      
+    - name :  Support custom and classic car enthusiasts
+      percent : 60%
+      
+    # skill item loop
+    - name :  Offer complete automotive care under one roof
+      percent : 50%

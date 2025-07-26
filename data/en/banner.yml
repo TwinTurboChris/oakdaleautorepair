@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/vortec-engine-swap.webp"
+  bg_image : "images/backgrounds/vortec-engine-swap.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Oil changes to engine swaps - we do it all"
+  content : "We’re a full-service shop handling everything from basic maintenance to full custom builds. With over 25 years of experience, we deliver expert craftsmanship on every job—whether it’s an oil change, LS swap, or full restoration."
+  button:
+    enable : true
+    label : "Shift Into Gear"
+    link : "#services"

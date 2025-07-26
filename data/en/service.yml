@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Factory Scheduled Maintenance
+      icon : ti-view-list-alt # themify icon pack : https://themify.me/themify-icons
+      content : We perform factory scheduled maintenance to keep your vehicle running smoothly and in line with manufacturer recommendations. From fluid services to inspections and tune-ups, we help prevent major issues before they start. Staying on schedule means longer vehicle life, better performance, and peace of mind.
+      
+    # service item loop
+    - name : Automotive A/C & HVAC Repair
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : We diagnose and repair all types of automotive A/C and HVAC systems to keep you comfortable year-round. Whether it’s a recharge, compressor replacement, or electrical issue, we’ll get your system blowing cold again. Our technicians use the right tools and procedures to ensure reliable, lasting performance.
+      
+    # service item loop
+    - name : Check Engine Light Diagnostics
+      icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
+      content : We offer full check engine light diagnostics using professional-grade scan tools and expert troubleshooting. Whether it’s a simple sensor issue or something more complex, our certified technicians will pinpoint the problem and explain exactly what your vehicle needs. No guesswork—just accurate answers and honest solutions.
+      
+    # service item loop
+    - name : ADAS Calibration
+      icon : ti-target # themify icon pack : https://themify.me/themify-icons
+      content : We provide precise ADAS (Advanced Driver Assistance Systems) calibrations to ensure your vehicle’s safety features work exactly as intended. From lane departure warnings to adaptive cruise control, proper calibration is essential after repairs, alignments, or windshield replacements. Our team uses the correct tools and procedures to restore factory-spec performance and keep you safe on the road.
+      
+    # service item loop
+    - name : Engine and Transmission Replacements
+      icon : ti-truck # themify icon pack : https://themify.me/themify-icons
+      content : We specialize in complete engine and transmission replacements for vehicles in need of major drivetrain repairs. Whether you're dealing with a failure or upgrading for performance, our experienced technicians ensure every installation is done with precision and care. We use quality parts and proven techniques to get your vehicle back on the road—stronger and more reliable than ever.
+      
+    # service item loop
+    - name : LS Swaps and Custom Builds
+      icon : ti-bolt # themify icon pack : https://themify.me/themify-icons
+      content : We have extensive experience performing LS swaps, bringing modern power and reliability to classic and custom vehicles. From wiring and fitment to tuning and drivability, we know the ins and outs of making LS engines run right in a wide range of builds. Whether it’s a weekend cruiser or a full-blown performance project, we deliver clean, dependable results every time.

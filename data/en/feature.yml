@@ -1,0 +1,28 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/car-repair.jpg
+  image_webp : images/about/car-repair.webp
+  title : Certified Repair and Custom Builds
+  content : "We’re a certified auto repair and custom build shop with the expertise to handle everything from factory-scheduled maintenance to full custom restorations. Our team is ASE and I-CAR certified, combining technical training with real-world skill. Whether you need a simple repair or a full-blown LS swap, we bring precision, passion, and professionalism to every job."
+  feature_item : 
+      # feature item loop
+    - title : Quality Parts. Trusted Brands.
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : We use factory brand and OEM-quality parts whenever possible to ensure every repair meets or exceeds manufacturer standards. These parts are designed to fit and perform just like the originals, giving you lasting reliability and peace of mind. It's our way of making sure your vehicle gets the quality it deserves—every time it’s in our shop.
+      
+      # feature item loop
+    - title : Your One-Stop Auto Shop
+      icon : ti-paint-bucket # themify icon pack : https://themify.me/themify-icons
+      content : From oil changes and brake service to engine swaps and restorations, we do it all under one roof. Our team is equipped to handle everything from maintenance to custom work, saving you the hassle of going to multiple shops. Whether your vehicle needs diagnostics, tires, or a full frame-off rebuild, we have the tools, training, and experience to get it done. 
+
+      # feature item loop
+    - title : Decades of Combined Experience
+      icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
+      content : With over 25 years in the industry, we’ve seen—and fixed—it all. That hands-on experience means we can quickly diagnose issues, avoid common pitfalls, and get the job done right the first time.
+      
+      # feature item loop
+    - title : Trusted by Enthusiasts and Everyday Drivers
+      icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
+      content : Our customers range from gearheads to commuters—and they all trust us with their vehicles. Whether it’s your first oil change or your third engine build, we bring the same care and commitment.
+

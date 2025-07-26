@@ -1,0 +1,28 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : How to Find Us
+  content : From Downtown Oakdale, head southeast on S Yosemite Ave, then turn left onto E J St. After a short distance, turn right onto S 5th Ave, which becomes Sierra Rd. Continue and make a right onto Pedersen Rd (also called Knox Rd), then take another right onto Post Rd—our shop will be on the left.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "1011 Post Road, Oakdale, CA 95361"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: 209-318-9352"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@oakdaleautorepair.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

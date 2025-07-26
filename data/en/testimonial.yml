@@ -1,0 +1,47 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial2.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial2.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Brian Thompson
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : June 6, 2025
+      content : Chris did an excellent job repairing my 2005 Pontiac Vibe, successfully replacing the passenger-side axle seal. He went above and beyond by pointing out other potential issues, which was incredibly helpful for planning future maintenance. His prices are very reasonable, and his expertise is evident. I’ll definitely return to his shop for any future repairs!
+      
+    # testimonial item loop
+    - name : Matt Schafer
+      image : images/client/client-2.jpg
+      image_webp : images/client/client-2.webp
+      date : May 30, 2025
+      content : An awesome place to get your vehicles fixed. Definitely need to check with them first if you need anything
+      
+    # testimonial item loop
+    - name : Cara Kugler
+      image : images/client/client-c.jpg
+      image_webp : images/client/client-c.webp
+      date : Dec 26, 2025
+      content : Chris is a very straightforward and smart mechanic. I have sent my own Mother to him numerous times. I definitely recommend him for all things related to fixing a car when you don't want to be scammed.
+
+    # testimonial item loop
+    - name : Maria Deane
+      image : images/client/client-m.jpg
+      image_webp : images/client/client-m.webp
+      date : March 3, 2025
+      content : I absolutely love this place ! The owner is fairly priced and so smart when it comes to understanding what really needs to be fixed. He will help you out with whatever he can. He has a lot of experience and is easy to communicate with as well .
+
+    # testimonial item loop
+    - name : Cindy Smith
+      image : images/client/client-k.jpg
+      image_webp : images/client/client-k.webp
+      date : April 12, 2025
+      content : Chris has been more than helpful for all of my mechanic needs. He’s very helpful and kind. He always gets me back on the road with safety in mind. Keeps my car running well.
+
+    # testimonial item loop
+    - name : Michelle Capablanca
+      image : images/client/client-i.jpg
+      image_webp : images/client/client-i.webp
+      date : February 22, 2025
+      content : I’m a single female with a unique car.  I get bamboozled all the time by mechanics. Chris is always honest and straightforward with my car needs.  He provides the best customer service and the best quality work!

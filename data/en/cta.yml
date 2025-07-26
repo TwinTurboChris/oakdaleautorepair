@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/automotive.jpg"
+  bg_image_webp : "images/backgrounds/automotive.webp"
+  title : "Our Warranty – Peace of Mind, Guaranteed"
+  content : "We back our work with a 24-Month / 24,000-Mile Warranty on most parts and labor—because your peace of mind matters. If something goes wrong with a covered repair, just bring it back and we’ll make it right—no extra charge."
+  button:
+    enable : true
+    label : "Hit the Gas and Reach Out"
+    link : "#contact"

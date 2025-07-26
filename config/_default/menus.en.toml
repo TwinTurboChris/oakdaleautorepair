@@ -1,0 +1,35 @@
+
+################### English Navigation ########################
+[[main]]
+name = "services"
+url = "#services"
+weight = 1
+
+[[main]]
+name = "our mission"
+url = "#skills"
+weight = 2
+
+[[main]]
+name = "about"
+url = "#about"
+weight = 3
+
+[[main]]
+name = "apply for financing"
+url = "https://www.mysynchrony.com/mmc/CR237254456"
+weight = 4
+
+[[main]]
+name = "testimonials"
+url = "#testimonial"
+weight = 5
+
+[[main]]
+name = "contact"
+url = "#contact"
+weight = 7
+
+
+
+

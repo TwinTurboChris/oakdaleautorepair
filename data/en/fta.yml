@@ -1,0 +1,11 @@
+############################# call to action ##############################
+fta:
+  enable : true
+  bg_image : "images/backgrounds/car_repair1.jpg"
+  bg_image_webp : "images/backgrounds/car_repair1.webp"
+  title : "Flexible Financing Available"
+  content : "We offer financing options to help make your repairs and services more manageable. Whether it’s unexpected breakdowns or major upgrades, you don’t have to delay the work your vehicle needs. With flexible payment plans available, we make it easier to get back on the road—without breaking the bank."
+  button:
+    enable : true
+    label : "Drive Now, Pay Later"
+    link : "https://www.mysynchrony.com/mmc/CR237254456"
