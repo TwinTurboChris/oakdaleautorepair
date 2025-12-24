@@ -4,9 +4,9 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Factory Scheduled Maintenance
-      icon : ti-view-list-alt # themify icon pack : https://themify.me/themify-icons
-      content : We perform factory scheduled maintenance to keep your vehicle running smoothly and in line with manufacturer recommendations. From fluid services to inspections and tune-ups, we help prevent major issues before they start. Staying on schedule means longer vehicle life, better performance, and peace of mind.
+    - name : Tires and Alignment
+      icon : ti-car # themify icon pack : https://themify.me/themify-icons
+      content : We provide complete tire services including tire replacement, flat repair, balancing, and wheel alignments. Whether you need new tires, a vibration corrected, or your alignment brought back to spec, our team has the tools and experience to do it right. Proper tire service means better handling, longer tire life, and a safer ride.
       
     # service item loop
     - name : Automotive A/C & HVAC Repair
