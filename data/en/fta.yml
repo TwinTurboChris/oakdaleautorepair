@@ -8,4 +8,6 @@ fta:
   button:
     enable : true
     label : "Drive Now, Pay Later"
-    link : "https://www.mysynchrony.com/mmc/CR237254456"
+    link : "https://snapf.in/iEZMc7N"
+    target : "_blank"
+    rel : "noopener noreferrer"
