@@ -3,7 +3,7 @@ skill:
   enable : true
   title : Our Mission
   subtitle : Bringing Fair Pricing to Auto Repair.
-  content : Oakdale Auto Repair was founded by Chris Holmes with one clear mission, to fight back against the rising cost of auto repair that has become all too common in the industry. After decades of combined experience, they saw how overpriced services were keeping everyday people from getting the repairs and maintenance they needed. So they set out to build a shop where expert work, honest service, and fair pricing come standard—making quality auto care accessible to everyone.
+  content : Oakdale Auto Repair was founded by Chris Holmes with one clear mission, to fight back against the rising cost of auto repair that has become all too common in the industry. After decades of combined experience, he saw how overpriced services were keeping everyday people from getting the repairs and maintenance they needed. So Chris set out to build a shop where expert work, honest service, and fair pricing come standard—making quality auto care accessible to everyone.
   image : images/about/squarebody.webp
   skill_item :
     # skill item loop
