@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Tires and Suspension Alignments
       icon : ti-car # themify icon pack : https://themify.me/themify-icons
-      content : We provide complete tire services including tire replacement, flat repair, balancing, and wheel alignments. Whether you need new tires, a vibration corrected, or your alignment brought back to spec, our team has the tools and experience to do it right. Proper tire service means better handling, longer tire life, and a safer ride.
+      content : We provide complete tire services including tire replacement, flat repair, balancing, and precision wheel alignments for all makes and models. Whether you need new tires installed, a vibration corrected, uneven tire wear addressed, or your alignment brought back to exact factory specifications, our team has the advanced equipment and experience to do it right. Our alignment services include thorough suspension inspection, camber, caster, and toe adjustments, and steering angle calibration when needed. Proper tire and alignment service means improved handling, extended tire life, better fuel efficiency, and a safer, more stable ride on the road.
       
     # service item loop
     - name : Automotive A/C & HVAC Repair - ALL YEARS
