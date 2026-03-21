@@ -4,14 +4,14 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Tires and Alignment
+    - name : Tires and Suspension Alignments
       icon : ti-car # themify icon pack : https://themify.me/themify-icons
       content : We provide complete tire services including tire replacement, flat repair, balancing, and wheel alignments. Whether you need new tires, a vibration corrected, or your alignment brought back to spec, our team has the tools and experience to do it right. Proper tire service means better handling, longer tire life, and a safer ride.
       
     # service item loop
-    - name : Automotive A/C & HVAC Repair
+    - name : Automotive A/C & HVAC Repair - ALL YEARS
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : We diagnose and repair all types of automotive A/C and HVAC systems to keep you comfortable year-round. Whether it’s a recharge, compressor replacement, or electrical issue, we’ll get your system blowing cold again. Our technicians use the right tools and procedures to ensure reliable, lasting performance.
+      content : We diagnose and repair all types of automotive A/C and HVAC systems to keep you comfortable year-round, including newer R1234yf systems as well as traditional refrigerants. Whether it’s a recharge, compressor replacement, or an electrical issue, we have the tools and expertise to get your system blowing cold again. Our technicians follow proper procedures and use the correct equipment for each system, ensuring reliable, long-lasting performance.
       
     # service item loop
     - name : Check Engine Light Diagnostics
